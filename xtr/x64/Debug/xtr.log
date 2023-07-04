@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\ШАГ\C\xtr\xtr\Source.cpp(255,11): warning C4101: 'sellsData': unreferenced local variable
+D:\ШАГ\C\xtr\xtr\Source.cpp(253,11): warning C4101: 'workersData': unreferenced local variable
+D:\ШАГ\C\xtr\xtr\Source.cpp(254,11): warning C4101: 'carsData': unreferenced local variable
+  xtr.vcxproj -> D:\ШАГ\C\xtr\x64\Debug\xtr.exe
